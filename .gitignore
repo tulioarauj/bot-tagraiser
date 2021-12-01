@@ -4,5 +4,5 @@ authorize.js
 converter.js
 musicas.json
 package-lock.json
-config_twitter.js
+config.js
 config.env
