@@ -1,0 +1,8 @@
+node_modules/
+alphabet.json
+authorize.js
+converter.js
+musicas.json
+package-lock.json
+config_twitter.js
+config.env

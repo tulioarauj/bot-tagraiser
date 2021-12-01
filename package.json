@@ -1,0 +1,26 @@
+{
+  "name": "bot-tagraiser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "got": "^11.8.3",
+    "needle": "^3.0.0",
+    "oauth-1.0a": "^2.2.6",
+    "q": "^1.5.1",
+    "request": "^2.88.2",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "prettier": "^2.5.0"
+  }
+}
