@@ -8,6 +8,7 @@ var respostas = text.split('\n');
 
 
 var T = new Twit(config);
+
 var id = {};
 var prevId = {};
 var respostasNegativas =[
